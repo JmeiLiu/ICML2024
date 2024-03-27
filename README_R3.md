@@ -2,9 +2,9 @@
 The following figures present the performance of CuGRO and baselines with datasets of replay, medium, and expert. The size of the  medium  dataset and expert dataset for each task in the sequential training process is 100000.
 
 <p align="center">
-  <img src="image/replay.pdf" alt="diffusion_s_1_1" width="30%" />
-  <img src="image/medium.pdf" alt="gan_s_1_1" width="30%" />
-  <img src="image/expert.pdf" alt="vae_s_1_1" width="30%" />
+  <img src="image/replay.pdf" alt="replay" width="30%" />
+  <img src="image/medium.pdf" alt="medium" width="30%" />
+  <img src="image/expert.pdf" alt="expert" width="30%" />
 </p>
 
 
