@@ -1,7 +1,7 @@
 <div>
-  <img src="image/s_1_1.png" alt="1_1" style="max-width: 30%;">
-  <img src="image/s_2_1.png" alt="2_1" style="max-width: 30%;">
-  <img src="image/s_2_2.png" alt="2_2" style="max-width: 30%;">
+  <img src="image/diffusion_s_1_1.png" alt="diffusion_s_1_1" style="max-width: 30%;">
+  <img src="image/gan_s_1_1.png" alt="gan_s_1_1" style="max-width: 30%;">
+  <img src="image/vae_s_1_1" alt="gan_s_1_1" style="max-width: 30%;">
 </div>
 
 
