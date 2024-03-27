@@ -4,6 +4,19 @@
   <img src="image/vae_s_1_1.png" alt="vae_s_1_1" width="30%" />
 </p>
 
+<p align="center">
+  <img src="image/diffusion_s_2_1.png" alt="diffusion_s_1_1" width="30%" />
+  <img src="image/gan_s_2_1.png" alt="gan_s_2_1" width="30%" />
+  <img src="image/vae_s_2_1.png" alt="vae_s_2_1" width="30%" />
+</p>
+
+<p align="center">
+  <img src="image/diffusion_s_1_1.png" alt="diffusion_s_1_1" width="30%" />
+  <img src="image/gan_s_2_2.png" alt="gan_s_2_2" width="30%" />
+  <img src="image/vae_s_2_2.png" alt="vae_s_2_2" width="30%" />
+</p>
+
+
 
 ![1_1](image/s_1_1.png) ![2_1](image/s_2_1.png) ![2_1](image/s_2_2.png)
 ![3_1](image/s_3_1.png)
