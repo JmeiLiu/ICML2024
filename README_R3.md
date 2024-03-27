@@ -1,3 +1,5 @@
+Here we present an example visualization to demonstrate the fidelity of VAE, GAN, and our method when replaying the marginal state distribution on the Swimmer-Dir environment. The size of the dataset for each task in the sequential  learning process is 100000.
+
 <p align="center">
   <img src="image/diffusion_s_1_1.png" alt="diffusion_s_1_1" width="30%" />
   <img src="image/gan_s_1_1.png" alt="gan_s_1_1" width="30%" />
