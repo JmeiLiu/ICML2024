@@ -1,5 +1,5 @@
 **Q1**
-The following figures present the performance of CuGRO and baselines with datasets of replay, medium, and expert. The size of the  medium  dataset and expert dataset for each task in the sequential training process is 100000.
+The figures below present the performance of CuGRO and baseline methods using datasets of replay, medium, and expert levels. For each task in the sequential training process, the size of both the medium and expert datasets is 100000.
 
 <p align="center">
   <img src="image/replay.pdf" alt="replay" width="30%" />
