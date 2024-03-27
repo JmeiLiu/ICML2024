@@ -1,4 +1,4 @@
-**Q1**
+**Q1:**
 The figures below present the performance of CuGRO and baseline methods using datasets of replay, medium, and expert levels. For each task in the sequential training process, the size of both the medium and expert datasets is 100000.
 
 <p align="center">
@@ -8,7 +8,7 @@ The figures below present the performance of CuGRO and baseline methods using da
 </p>
 
 
-**Q2**
+**Q2:**
 Here we present an example visualization to demonstrate the fidelity of VAE, GAN, and our method when replaying the marginal state distribution on the Swimmer-Dir environment. The size of the dataset for each task in the sequential training process is 100000.
 
 
